@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\bin\Debug\net8.0\DocSoThanhChu.exe
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\bin\Debug\net8.0\DocSoThanhChu.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\bin\Debug\net8.0\DocSoThanhChu.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\bin\Debug\net8.0\DocSoThanhChu.dll
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\bin\Debug\net8.0\DocSoThanhChu.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.dll
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\refint\DocSoThanhChu.dll
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\DocSoThanhChu.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\DocSoThanhChu\obj\Debug\net8.0\ref\DocSoThanhChu.dll
